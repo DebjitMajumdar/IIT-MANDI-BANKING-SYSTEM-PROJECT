@@ -114,7 +114,7 @@ Example content of a `history/acc_1234567890_history.txt`:
 
 ## 📽️ Demo Video
 
-👉 
+👉 https://youtu.be/zieNYW6ZBBk
 
 ---
 
